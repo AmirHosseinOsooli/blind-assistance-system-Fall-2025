@@ -477,10 +477,11 @@ Contributions welcome! Here's how:
 **Institution:** University of Tehran
 **Semester:** Winter 2026
 
-**Team Members:**
-- Amir Hossein Osooli
-- Soheil Mahdavi
+## 👤 Author
 
+**AmirHossein Osooli**
+- Robotics Rehabilitation Final Project
+---
 
 ---
 
@@ -563,7 +564,7 @@ copies or substantial portions of the Software.
 
 ### Quick Links
 
-🎬 [Demo](# demo-video) | 📖 [Docs](docs/) | 🔧 [Hardware](#hardware-components) | 💻 [Code](src/) | 🐛 [Issues](https://github.com/yourusername/blind-assistance-system/issues)
+🎬 [Demo](# demo-video) | 🔧 [Hardware](#hardware-components) | 💻 [Code](src/) | 🐛 [Issues](https://github.com/yourusername/blind-assistance-system/issues)
 
 ---
 
