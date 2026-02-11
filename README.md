@@ -256,7 +256,6 @@ GND ─────────────► GND
 
 We used an AI-powered no-code app builder:
 - Platform: Vibe Code
-- HTTP GET to: `http://192.168.4.1/alert`
 - Text-to-Speech component for voice
 - Update interval: 2 seconds
 
@@ -402,18 +401,6 @@ const char* password = "YourPassword";  // Min 8 chars
    - Sensors should face clearly forward
    - Avoid soft/angled surfaces
    - Space sensors apart
-
----
-
-### App Won't Connect
-
-**Problem:** Can't reach ESP32
-
-**Solutions:**
-1. Verify connected to "BlindAssist" Wi-Fi
-2. Try browser: `http://192.168.4.1/alert`
-3. Check phone firewall allows local connections
-4. Restart both ESP32 and phone
 
 ---
 
