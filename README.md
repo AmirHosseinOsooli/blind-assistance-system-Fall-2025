@@ -483,8 +483,6 @@ Contributions welcome! Here's how:
 - Robotics Rehabilitation Final Project
 ---
 
----
-
 ### Related Projects
 - [Smart Cane Projects](https://github.com/topics/smart-cane)
 - [Assistive Technology](https://github.com/topics/assistive-technology)
