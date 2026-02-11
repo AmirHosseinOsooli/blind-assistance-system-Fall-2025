@@ -48,10 +48,7 @@ Back Sensor:
 3. Connect to: **BlindAssist**
 4. Password: **12345678**
 
-## 🌐 Step 4: Open App (5 min)
-
-**Option A:** Use your app
-**Option B:** Open browser → `http://192.168.4.1/alert`
+## 🌐 Step 4: Open App
 
 ## ✅ Test It!
 
